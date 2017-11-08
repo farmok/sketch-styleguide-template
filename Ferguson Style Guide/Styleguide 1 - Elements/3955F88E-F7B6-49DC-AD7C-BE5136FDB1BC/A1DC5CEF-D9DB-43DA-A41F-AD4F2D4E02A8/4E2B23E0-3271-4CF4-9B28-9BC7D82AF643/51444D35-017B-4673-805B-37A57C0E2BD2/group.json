@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "51444D35-017B-4673-805B-37A57C0E2BD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 86,
+    "x": 205,
+    "y": 41
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D0324BBE-88E6-4BE1-9682-CC9F5C5A1CF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53FEC794-7E2A-4F59-B512-3714D856CDAC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BF32E30-603B-4FC8-997A-F803C88219C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C3313E4-B89F-4E87-AEEB-12551B8BEEE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CA83AC2-F31B-4865-80B9-F92A32EEBC61"
+    }
+  ],
+  "name": "Flat Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

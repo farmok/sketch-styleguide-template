@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNT1BRU1OT1BRVVlbVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADbxBKAEEAbgBkACAAdABoAGUAcgBlACAAeQBvAHUAIABnAG8ALgAgAEEAbABsACAAcwBlAHQAIAAmACAAZABvAG4AZQAhACAACgBFAG4AagBvAHkAIAB5AG8AdQByACAARQBsAGUAbQBlAG4AdABzACAAJgCgAFMAdAB5AGwAZQBnAHUAaQBkAGUAcwAgAGYAaQBsAGUALtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4zNDkwMTk2MDc4IDAuMzI5NDExNzY0NyAwLjMyOTQxMTc2NDcAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1DYKNzg5Ojs8Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHSAAIAMI0A3Cj2AAAAAI0A3Cj2AAAAA0iwtPj9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM+QDFfEBBOU1BhcmFncmFwaFN0eWxl0gpCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKRklMokdIgA+AEKJKS4ARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AzMzNAAAAAXxAUUHJveGltYU5vdmEtU2VtaWJvbGTSLC1SU18QE05TTXV0YWJsZURpY3Rpb25hcnmjUlQxXE5TRGljdGlvbmFyedIsLVZXXxAQTlNGb250RGVzY3JpcHRvcqJYMV8QEE5TRm9udERlc2NyaXB0b3LSLC1UWqJUMdIsLVxdXxASTlNBdHRyaWJ1dGVkU3RyaW5nol4xXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WFiVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBARgBHwEnATIBNgE4AToBPAFAAUIBRAFGAUgBUAFjAYUBjgGUAaEBtgHgAeIB5AHmAesB8AHyAfQB+QIEAg0CGgIdAioCMwI4AkACQwJMAlcCaQJ7An0CfwKIApEClgKwArQCxwLMAukC6wLtAvQC9wL5AvsC/gMAAwIDBAMaAzADOQNQA1UDawNvA3wDgQOUA5cDqgOvA7IDtwPMA88D5AP2A/kD/gAAAAAAAAIBAAAAAAAAAGMAAAAAAAAAAAAAAAAAAAQA"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BCA4A538-FAB6-4646-B5C0-52940F77A536",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 332,
+    "x": 61,
+    "y": 0.5999984741210938
+  },
+  "glyphBounds": "{{0, 4}, {331, 40}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "And there you go. Al",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "EE7DA701-3135-476D-A62B-27C6CC2725A1"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

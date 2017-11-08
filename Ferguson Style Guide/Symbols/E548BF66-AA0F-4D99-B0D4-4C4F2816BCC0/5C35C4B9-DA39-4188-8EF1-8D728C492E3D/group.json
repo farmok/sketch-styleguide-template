@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "5C35C4B9-DA39-4188-8EF1-8D728C492E3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 343,
+    "width": 630,
+    "x": 0,
+    "y": 2008
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B0E123B2-C7C3-4EAC-8485-64FBBAD5D67B"
+    },
+    {
+      "class": "text",
+      "id": "B798B154-3006-4E91-AE4B-7E6CF45D001E"
+    },
+    {
+      "class": "text",
+      "id": "376F69C8-5E90-44E4-AD61-0F18ABEA2DF1"
+    },
+    {
+      "class": "text",
+      "id": "5401274B-B3F2-46B7-B510-FB0279921FDE"
+    }
+  ],
+  "name": "Step 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

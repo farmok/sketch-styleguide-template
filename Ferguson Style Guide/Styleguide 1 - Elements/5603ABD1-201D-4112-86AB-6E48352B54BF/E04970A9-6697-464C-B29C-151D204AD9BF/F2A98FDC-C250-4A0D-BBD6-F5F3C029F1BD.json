@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNT5CRk5PUFFSVlpcVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxATamFubG9zZXJ0LmNvbS9zdG9yZdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4zNDkwMTk2MDc4IDAuMzI5NDExNzY0NyAwLjMyOTQxMTc2NDcAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1TY3OAo5JDo7PD1bTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodIAAI0A5fO2gAAAAgAwjQDl87aAAAADSLC0/QF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloz9BMV8QEE5TUGFyYWdyYXBoU3R5bGXSCkNERV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpHSk2iSEmAD4AQoktMgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCzMzMAAAABfEBNQcm94aW1hTm92YS1SZWd1bGFy0iwtU1RfEBNOU011dGFibGVEaWN0aW9uYXJ5o1NVMVxOU0RpY3Rpb25hcnnSLC1XWF8QEE5TRm9udERlc2NyaXB0b3KiWTFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtVVuiVTHSLC1dXl8QEk5TQXR0cmlidXRlZFN0cmluZ6JfMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFiY1Ryb290gAEACAARABoAIwAtADIANwBRAFcAXgBnAG4AewB9AH8AgQCXAJ4ApgCxALUAtwC5ALsAvwDBAMMAxQDHAM8A4gEEAQ0BEwEgATUBXwFhAWMBZQFqAW8BcQFzAXgBgwGMAZkBnAGpAbIBtwG/AcIBzQHZAeQB9gIIAgoCEwIVAh4CIwI9AkECVAJZAnYCeAJ6AoEChAKGAogCiwKNAo8CkQKnAr0CxgLcAuEC9wL7AwgDDQMgAyMDNgM7Az4DQwNYA1sDcAOCA4UDigAAAAAAAAIBAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAOM"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F2A98FDC-C250-4A0D-BBD6-F5F3C029F1BD",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 121,
+    "x": 1259,
+    "y": 54.51199913024902
+  },
+  "glyphBounds": "{{-2, 7}, {122, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "janlosert.com/store",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3BBE9B19-9EC8-4D7B-8BB2-C79B7CCD9924"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "F09D98A1-F720-4D6D-8892-728F3DFC7C6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 71,
+    "width": 586,
+    "x": 489,
+    "y": 91
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3224B899-5F6E-436B-96D9-D389D824C4E2"
+    },
+    {
+      "class": "group",
+      "id": "4EE1E540-1365-4956-B736-9082A43D4C91"
+    },
+    {
+      "class": "text",
+      "id": "B053F39A-359B-4C15-B756-78C24521FCCD"
+    }
+  ],
+  "name": "Social Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

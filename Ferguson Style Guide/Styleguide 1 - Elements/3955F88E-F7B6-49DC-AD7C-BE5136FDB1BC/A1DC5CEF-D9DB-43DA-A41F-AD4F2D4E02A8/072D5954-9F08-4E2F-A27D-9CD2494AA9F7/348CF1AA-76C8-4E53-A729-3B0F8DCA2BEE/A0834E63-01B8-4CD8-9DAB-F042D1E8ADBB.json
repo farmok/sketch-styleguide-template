@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A0834E63-01B8-4CD8-9DAB-F042D1E8ADBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 187,
+    "width": 245,
+    "x": 0,
+    "y": 182
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 5,
+  "masterInfluenceEdgeMaxYPadding": 5,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 6,
+  "name": "Textarea with Caption + Message",
+  "nameIsFixed": true,
+  "overrides": {
+    "34B3AD4A-38F9-4208-B7DB-9BCB2661EAC3": {
+      "symbolID": "D123D528-7E30-4348-B9BF-405300630590"
+    },
+    "3719A84A-43AE-439C-B467-6C9EC7CDB3EB": {
+      "5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B": "The textarea tag defines a \nmulti-line text input control.",
+      "7A53BBA4-C19B-411E-8996-AAC1498FF91E": "The textarea tag defines a \nmulti-line text input control.",
+      "symbolID": "E4185CB5-43E8-4106-97DA-376CFFFB2DDD"
+    },
+    "6464A38C-020C-4509-8F96-65CEFAB17DB3": "Everybody good? Plenty of slaves for my robot colony? - Interstellar",
+    "7407D1AF-74B3-4657-9EC3-44A6A79158B2": {
+      "symbolID": ""
+    },
+    "7DA8CD9C-8C30-4076-B290-3B202D24F88C": {
+      "symbolID": ""
+    },
+    "8CE64267-EBE9-4971-B860-9AA51939C63C": {
+      "26F179DB-7D56-4AE6-8C5A-A945C742804D": {
+        "43276E30-4DC8-4633-8E77-6C876FC376C2": {
+          "symbolID": "C63A6A28-D8A5-485D-9645-E4331D4D485D"
+        }
+      },
+      "340E4E0F-3BCD-45A1-8E71-DBF293F5AEDF": {
+        "E67E57DA-0FFD-4956-9C23-BFCE551F4F0F": "This is required field"
+      }
+    },
+    "92E0BAE8-CB1D-4157-9928-0493ABE85AEA": {
+    },
+    "CCED4160-AE53-4857-9899-D2CECB4D6437": {
+      "DD29FFA9-2186-4C27-8FDB-968FF457C740": "TextArea Label"
+    },
+    "E168CB84-40CC-49F8-925E-D289EE2F29DE": {
+      "7105E33A-7034-49DE-AF4F-0C9935A26803": "min. 40 Characters"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "95202D5D-19A4-47DE-9011-EEA7C19AFD71",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

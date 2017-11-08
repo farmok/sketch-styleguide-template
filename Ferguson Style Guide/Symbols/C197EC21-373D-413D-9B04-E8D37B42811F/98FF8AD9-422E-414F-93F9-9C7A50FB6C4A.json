@@ -1,0 +1,63 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGiIlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIERIYJygpKissLS4yOjs8PT5FSVFVXGBkZ2l3eHyAhFUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAHoADgCBVVmFsdWXSEwwUF1pOUy5vYmplY3RzohUWgASAG4Ad0xkTDBogJldOUy5rZXlzpRscHR4fgAWABoAHgAiACaUhIiMkJYAKgAuADIAUgBaAGl8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvchABIz/wAAAAAAAA0gwvMDFfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TGRMMMzY5ojQ1gA6AD6I3OIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXxAUUHJveGltYU5vdmEtU2VtaWJvbGTSP0BBQlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaNBQ0RcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00j9ARkdfEBBOU0ZvbnREZXNjcmlwdG9yokhEXxAQTlNGb250RGVzY3JpcHRvctRKDEtMTU5PUFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0gACAFSNAMzMzQAAAACNAMzMzQAAAANI/QFJTXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjUlREXxAQTlNQYXJhZ3JhcGhTdHlsZdRWV1gMWSxaW1VOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMSAxIDEAgBeAGdJdDF5fVE5TSUQQAYAY0j9AYWJcTlNDb2xvclNwYWNlomNEXE5TQ29sb3JTcGFjZdI/QGVmV05TQ29sb3KiZUTSP0BDaKJDRNMZEwxqcCalGxwdHh+ABYAGgAeACIAJpSFyIyQlgAqAHIAMgBSAFoAaEADSP0B5el5OU011dGFibGVBcnJheaN5e0RXTlNBcnJhedJ9DH5/V05TLmRhdGFEBAABAYAf0j9AgYJdTlNNdXRhYmxlRGF0YaOBg0RWTlNEYXRh0j9AhYZfEBJOU0F0dHJpYnV0ZWRTdHJpbmeih0RfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRiotUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGoAcwCFAJIAmQCbAJ0AnwChAKcArAC3ALoAvAC+AMAAxwDPANUA1wDZANsA3QDfAOUA5wDpAOsA7QDvAPEBHAEjAUUBWAFgAWIBawFwAY0BjwGRAZgBmwGdAZ8BogGkAaYBqAG+AdQB3QH0AfkCBAINAiMCJwI0Aj0CQgJVAlgCawJ0An8CkQKjAqUCpwKwArkCvgLYAtwC7wL4Av4DCwMgAycDKQMrAzADNQM3AzkDPgNLA04DWwNgA2gDawNwA3MDegOAA4IDhAOGA4gDigOQA5IDlAOWA5gDmgOcA54DowOyA7YDvgPDA8sD0APSA9cD5QPpA/AD9QQKBA0EIgQ0BDcEPAAAAAAAAAIBAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQ+"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "98FF8AD9-422E-414F-93F9-9C7A50FB6C4A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 54,
+    "x": 0,
+    "y": 2.799999237060547
+  },
+  "glyphBounds": "{{0, 3}, {53, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "↳ ✏️ Value",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "643113C3-899E-41F1-BC8E-EC16B104AF78"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "name",
+        "options": {
+          "gender": "female"
+        },
+        "title": "Female"
+      }
+    }
+  }
+}

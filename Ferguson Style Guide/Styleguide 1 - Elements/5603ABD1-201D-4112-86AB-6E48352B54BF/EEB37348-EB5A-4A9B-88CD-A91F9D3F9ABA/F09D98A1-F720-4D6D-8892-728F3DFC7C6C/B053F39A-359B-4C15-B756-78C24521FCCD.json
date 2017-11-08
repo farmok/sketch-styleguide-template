@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZWZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAgISIjJCUmJyszNDU2Nz5CSU1UWFxfYVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA15Tb2NpYWwgQnV0dG9uc9MREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqAC4ATgBWAGV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvchABIz/wAAAAAAAA0gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AkAAAAAAAAXxAUUHJveGltYU5vdmEtU2VtaWJvbGTSODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM6PD1cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jg5P0BfEBBOU0ZvbnREZXNjcmlwdG9yokE9XxAQTlNGb250RGVzY3JpcHRvctRDCkRFRkdISFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0gACAFCNAKAAAAAAAANI4OUpLXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjSkw9XxAQTlNQYXJhZ3JhcGhTdHlsZdROT1AKUSVSU1VOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjcxNDI4NTcxNDMgMC43MTQyODU3MTQzIDAuNzE0Mjg1NzE0MwCAFoAY0lUKVldUTlNJRBABgBfSODlZWlxOU0NvbG9yU3BhY2WiWz1cTlNDb2xvclNwYWNl0jg5XV5XTlNDb2xvcqJdPdI4OTxgojw90jg5YmNfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZD1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRZ2hUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAlACbAKMArgC0ALYAuAC6ALwAvgDEAMYAyADKAMwAzgDQAPsBAgEkATcBPwFBAUoBTwFsAW4BcAF3AXoBfAF+AYEBgwGFAYcBnQGzAbwB0wHYAeMB7AICAgYCEwIcAiECNAI3AkoCUwJeAnACggKEAoYCjwKUAq4CsgLFAs4C1ALhAvYDIAMiAyQDKQMuAzADMgM3A0QDRwNUA1kDYQNkA2kDbANxA4YDiQOeA7ADswO4AAAAAAAAAgEAAAAAAAAAaQAAAAAAAAAAAAAAAAAAA7o="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B053F39A-359B-4C15-B756-78C24521FCCD",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 98,
+    "x": 0,
+    "y": 4
+  },
+  "glyphBounds": "{{0, 2}, {96, 8}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Social Buttons",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "7BC70D31-3DF2-4CBB-981F-82AC63176F7F"
+  },
+  "textBehaviour": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "795D4C20-C9F6-4FE0-9BDF-2234D2FAA51C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 191,
+    "width": 276,
+    "x": 587,
+    "y": 629
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "605BEB46-3034-4F1D-BE09-8FF1952C13DB"
+    },
+    {
+      "class": "group",
+      "id": "4E9A8579-7D00-47CB-852A-A77174BB4F98"
+    },
+    {
+      "class": "group",
+      "id": "5DF16FD4-B9CA-4215-9B9E-CD7087C12B59"
+    },
+    {
+      "class": "group",
+      "id": "00E26927-5993-4E01-B546-23DE895FA037"
+    },
+    {
+      "class": "text",
+      "id": "9F0407F6-B1A0-4697-A01E-5610ADADE486"
+    }
+  ],
+  "name": "Simple Dropdown & Breadcrumb",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

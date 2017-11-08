@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "5DA4CD24-17BE-4A71-AE88-4587624E1DB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 111,
+    "width": 125,
+    "x": 1,
+    "y": 46
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "77546FB2-A142-41FE-9721-82FC077784D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B374558D-914D-4F96-8844-9B14A313C8E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27E5000B-5E3B-437B-9786-8D200D75C7DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A4B0ADB-8520-45A6-AA00-183E844D451F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4DD26F9-193D-4C34-9401-AD4EE3B43A3E"
+    }
+  ],
+  "name": "Dropdown with Images",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

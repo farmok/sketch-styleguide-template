@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3CEDB6B8-68AE-47FE-B0DA-CF38051AA918",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 245,
+    "x": 0,
+    "y": 74
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Dropdown Item - Active",
+  "nameIsFixed": true,
+  "overrides": {
+    "3743C290-1909-4B43-BE98-320AEA5E4628": {
+      "4657D986-5A42-492D-9C7E-D460C7F04527": {
+        "symbolID": ""
+      }
+    },
+    "41CC2362-09E9-4F09-9DFF-4984FCA5AB1B": {
+      "B4CBBF02-3E3D-4F67-AF5D-D306A84E0CD7": "Pins"
+    },
+    "50AD274C-83C6-48D2-8F17-C8807B23292D": {
+      "B772270D-EC5F-4175-AEE6-42A1CB8840C4": {
+        "symbolID": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+      }
+    },
+    "631CC2E0-F446-48ED-92B4-D407D4C3E760": {
+      "77E88B0A-54C8-4DE6-B3BA-F79B9B987296": {
+        "symbolID": "8AD99CEF-811E-4782-9229-E50ED454D5AA"
+      }
+    },
+    "7371FD6A-2870-4349-90AF-BB40501CE8AB": {
+      "4657D986-5A42-492D-9C7E-D460C7F04527": {
+        "symbolID": ""
+      }
+    },
+    "88646602-DC57-495D-B24C-D7F59C22084F": {
+      "1E960659-5BA3-4988-95D4-8962126DAB03": {
+        "symbolID": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+      },
+      "2E187A8C-A3AB-4219-BCD1-A0459348D831": {
+        "symbolID": "BEEEFF0A-8AF0-4A56-8E60-769FEA49DEC6"
+      },
+      "E4AC6029-710A-4DA7-AF86-A1DEE336BA37": {
+        "symbolID": "BEEEFF0A-8AF0-4A56-8E60-769FEA49DEC6"
+      },
+      "symbolID": "223242F7-4D50-43F3-89E1-24A3EE33EE8C"
+    },
+    "8D019EA5-BAEE-41AE-B7E6-06F3A25B2179": {
+    },
+    "BC4858DC-A274-4DC4-91C4-83DDAABC8DA6": {
+    },
+    "F64B40EE-1A85-44D8-90E2-4E6E3CEDF6ED": "Third"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "121E58A0-08AE-417B-8738-F471F62D2C12",
+  "verticalSpacing": 0
+}

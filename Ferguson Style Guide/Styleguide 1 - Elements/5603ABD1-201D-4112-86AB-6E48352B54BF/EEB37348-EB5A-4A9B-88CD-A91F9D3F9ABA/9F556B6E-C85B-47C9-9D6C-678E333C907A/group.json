@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "9F556B6E-C85B-47C9-9D6C-678E333C907A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 225,
+    "width": 217,
+    "x": 587,
+    "y": 372
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D54CAC42-5CC5-405B-B38D-9E613994ED88"
+    },
+    {
+      "class": "group",
+      "id": "49979D54-FA00-4702-A562-B8C9D02B3676"
+    },
+    {
+      "class": "group",
+      "id": "4BBA0E2C-627D-47CD-96F5-2252FDE0F5D2"
+    },
+    {
+      "class": "group",
+      "id": "2CA21275-20BB-4CBB-B836-5543B1F55A7C"
+    },
+    {
+      "class": "text",
+      "id": "1D445B36-8E85-42B5-954A-268268CB9959"
+    }
+  ],
+  "name": "Pagination & Carousel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "869AD5AE-8018-4E30-8DB8-7D6748CF43E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 46,
+    "x": 168,
+    "y": 38
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Label",
+  "nameIsFixed": true,
+  "overrides": {
+    "6B47B188-DA5A-4B33-88F6-494BC6467917": {
+      "A3400162-20B4-42B6-8092-8A264C252213": {
+        "symbolID": "79ECCD6E-B5CF-441E-B034-1D0429EC1AB3"
+      },
+      "DBD191E8-C6F5-474A-B8FC-39182DE32B68": {
+        "symbolID": "79ECCD6E-B5CF-441E-B034-1D0429EC1AB3"
+      },
+      "symbolID": "C5C431D0-57D3-4DC9-AF1D-F53F49A96A1C"
+    },
+    "925B2592-8BF3-4AEC-BD17-116CCB9B669F": {
+      "694B391D-2CF4-454F-9A99-157C17FB5625": "Label"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7D4005FE-FAE1-4A8D-8D50-D1BA5F79B8D6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "B94D7170-FF73-407C-B351-AEAD04006293",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 17.23999977111816,
+    "width": 139.9939831038167,
+    "x": 0.5,
+    "y": 31.38000011444092
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "E63E6C59-6C6A-4F20-834F-530B513DBA85"
+    }
+  ],
+  "name": "Ferguson_RGB",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 17.24,
+            "enabled": 1,
+            "modelID": "constraint_5810bf4a-cce9-4adc-915c-2690d69962cd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 139.994
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_6dc8af70-fadf-4ae6-8a5b-1b1839c13d40",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

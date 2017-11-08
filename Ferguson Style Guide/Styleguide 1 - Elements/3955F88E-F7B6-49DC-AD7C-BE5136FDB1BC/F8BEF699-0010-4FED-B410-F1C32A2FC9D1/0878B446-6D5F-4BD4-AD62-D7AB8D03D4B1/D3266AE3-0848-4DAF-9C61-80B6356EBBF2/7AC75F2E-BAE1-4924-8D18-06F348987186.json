@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7AC75F2E-BAE1-4924-8D18-06F348987186",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 160,
+    "x": 0,
+    "y": 27
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Select",
+  "nameIsFixed": true,
+  "overrides": {
+    "16824476-4F5D-425F-A225-01A38111EEDC": {
+      "09758194-7852-4EF8-AA0C-7D964F5B73DF": {
+        "symbolID": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+      },
+      "B5C6A311-9969-43CC-8DC9-5699ACA55159": {
+        "symbolID": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+      },
+      "symbolID": "8A931C72-67F6-428B-A80C-DB39E5CFD2B9"
+    },
+    "22000BD1-E15B-473B-81FA-4E5D80200442": {
+      "symbolID": "A00A5E2C-FE3B-48DE-AA8A-7D3C1D8002F1"
+    },
+    "5C26B732-5B4B-47C7-993D-E2438F29CD3F": {
+      "2E187A8C-A3AB-4219-BCD1-A0459348D831": {
+        "symbolID": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+      },
+      "symbolID": "DE7B7406-C23C-4B0F-8000-7445933DBDE6"
+    },
+    "6028CFAF-188B-424A-84A1-D3B43276C314": {
+      "symbolID": "A00A5E2C-FE3B-48DE-AA8A-7D3C1D8002F1"
+    },
+    "A101410F-A5B5-4248-833F-A24FD2F53AEA": {
+      "symbolID": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    },
+    "D3999B85-2ACB-4DE7-8FAF-8ACE88264493": {
+      "DBD191E8-C6F5-474A-B8FC-39182DE32B68": {
+        "symbolID": "8E95413F-B170-446E-B15E-2873F7B57469"
+      }
+    },
+    "DF1CB716-2499-47DA-B2F1-609C8058B4ED": {
+      "7A53BBA4-C19B-411E-8996-AAC1498FF91E": "Apr 4, 2017",
+      "symbolID": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F2FC818A-33BB-47C5-9AC9-13E6DAB50884",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
