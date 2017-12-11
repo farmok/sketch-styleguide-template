@@ -24,7 +24,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 5,
   "masterInfluenceEdgeMaxYPadding": 5,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 4,
@@ -179,7 +179,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
