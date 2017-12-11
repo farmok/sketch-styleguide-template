@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 5,
   "name": "Little Dropdown",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "50585690-17C3-4239-8EE5-1F0A382658CE_stringValue",
+      "value": "Item"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "170625E1-D4A4-4E6D-B669-F20A50DA851C/E67E57DA-0FFD-4956-9C23-BFCE551F4F0F_stringValue",
+      "value": "User"
+    }
+  ],
   "overrides": {
     "170625E1-D4A4-4E6D-B669-F20A50DA851C": {
       "E67E57DA-0FFD-4956-9C23-BFCE551F4F0F": "User"
@@ -39,6 +51,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

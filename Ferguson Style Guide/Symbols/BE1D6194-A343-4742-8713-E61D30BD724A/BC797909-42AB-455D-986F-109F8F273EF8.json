@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "Text/Body (14px)/Dark/Bold/Centered",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E3D6303-EE8A-4869-A42B-9C7C0A5127B0_stringValue",
+      "value": "Mth, Year"
+    }
+  ],
   "overrides": {
     "7E3D6303-EE8A-4869-A42B-9C7C0A5127B0": "Mth, Year"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

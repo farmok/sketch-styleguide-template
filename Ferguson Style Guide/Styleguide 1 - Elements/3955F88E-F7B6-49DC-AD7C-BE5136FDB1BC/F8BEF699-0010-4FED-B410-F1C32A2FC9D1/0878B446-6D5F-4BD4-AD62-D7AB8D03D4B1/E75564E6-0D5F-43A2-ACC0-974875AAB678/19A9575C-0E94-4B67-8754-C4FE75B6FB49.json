@@ -30,6 +30,46 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "Dropdown Item",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8806C4C4-B2CB-4D7E-A03D-F0F16158F3A7/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Leila Poole"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FFBAD421-3FE9-4111-8586-8D9C7873CD33/34EE7FCB-75DB-40F9-A25A-FEB31DF09FCD/4657D986-5A42-492D-9C7E-D460C7F04527_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FFBAD421-3FE9-4111-8586-8D9C7873CD33/7D0C5498-2A9C-4DB9-A949-8F633381287F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FE0981A7-DA05-4F3B-B378-342D9AD8176D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/88b925d4fec6a0f68387c03a20c6ad6bac68465f",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F64B40EE-1A85-44D8-90E2-4E6E3CEDF6ED_stringValue",
+      "value": "First"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F0961EC-D355-4ABF-A986-2DE66DE2C704/FE0981A7-DA05-4F3B-B378-342D9AD8176D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e1a7a5165a19c2acdb6a9083627038f169d8ab12",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
   "overrides": {
     "7F0961EC-D355-4ABF-A986-2DE66DE2C704": {
       "FE0981A7-DA05-4F3B-B378-342D9AD8176D": {
@@ -40,8 +80,6 @@
     },
     "8806C4C4-B2CB-4D7E-A03D-F0F16158F3A7": {
       "7A53BBA4-C19B-411E-8996-AAC1498FF91E": "Leila Poole"
-    },
-    "BC4858DC-A274-4DC4-91C4-83DDAABC8DA6": {
     },
     "F64B40EE-1A85-44D8-90E2-4E6E3CEDF6ED": "First",
     "FE0981A7-DA05-4F3B-B378-342D9AD8176D": {
@@ -63,6 +101,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

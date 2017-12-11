@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icon/Circle (for Toggle)",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "39A8C8AC-CA8B-4657-9B62-24F53F00E755_symbolID",
+      "value": "1C84892F-3CAF-429C-B8C4-66614CA09882"
+    }
+  ],
   "overrides": {
     "39A8C8AC-CA8B-4657-9B62-24F53F00E755": {
       "symbolID": "1C84892F-3CAF-429C-B8C4-66614CA09882"
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

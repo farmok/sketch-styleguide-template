@@ -30,6 +30,28 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "Checkbox - Selected",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "96C5EE5D-DD78-481A-AC7C-ADD557C72F72_symbolID",
+      "value": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "96C5EE5D-DD78-481A-AC7C-ADD557C72F72/5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B_stringValue",
+      "value": "Selected"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "96C5EE5D-DD78-481A-AC7C-ADD557C72F72/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Selected"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "910017F4-C0F3-4FF6-B9FA-560DD9EB49C6/B68E4F5F-5F30-4EAF-BAE3-C2180F887F94/DBD191E8-C6F5-474A-B8FC-39182DE32B68_symbolID",
+      "value": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+    }
+  ],
   "overrides": {
     "910017F4-C0F3-4FF6-B9FA-560DD9EB49C6": {
       "B68E4F5F-5F30-4EAF-BAE3-C2180F887F94": {
@@ -47,6 +69,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

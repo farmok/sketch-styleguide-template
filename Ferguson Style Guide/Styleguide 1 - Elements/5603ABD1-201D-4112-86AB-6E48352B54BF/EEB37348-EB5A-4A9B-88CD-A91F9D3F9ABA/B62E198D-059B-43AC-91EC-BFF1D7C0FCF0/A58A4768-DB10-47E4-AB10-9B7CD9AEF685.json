@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Notification/Warning",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3DD13C15-1984-4E72-A870-F9E2D6FF8BC6/5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B_stringValue",
+      "value": "Warning. Loading of this page taking a way too long."
+    }
+  ],
   "overrides": {
     "3DD13C15-1984-4E72-A870-F9E2D6FF8BC6": {
       "5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B": "Warning. Loading of this page taking a way too long."
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

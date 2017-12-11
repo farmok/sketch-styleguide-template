@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "Inactive",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D507C0C6-557C-4CF2-B21B-70774C10B393/0CF0489A-A3C3-49F9-AAB2-92431DF07BE0_stringValue",
+      "value": "Step 2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E860E718-2087-4AD4-8569-D9E37286FADC_stringValue",
+      "value": "2"
+    }
+  ],
   "overrides": {
     "D507C0C6-557C-4CF2-B21B-70774C10B393": {
       "0CF0489A-A3C3-49F9-AAB2-92431DF07BE0": "Step 2"
@@ -39,6 +51,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

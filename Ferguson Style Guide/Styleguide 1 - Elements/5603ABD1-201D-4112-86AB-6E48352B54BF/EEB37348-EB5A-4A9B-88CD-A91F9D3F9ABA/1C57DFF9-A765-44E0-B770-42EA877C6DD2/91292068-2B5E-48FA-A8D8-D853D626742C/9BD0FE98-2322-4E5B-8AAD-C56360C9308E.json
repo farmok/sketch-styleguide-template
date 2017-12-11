@@ -30,6 +30,23 @@
   "masterInfluenceEdgeMinYPadding": 5,
   "name": "Base + Label & Message",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1DE39DF7-027C-4A60-BD48-BCC2A98A4767_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1DE39DF7-027C-4A60-BD48-BCC2A98A4767/7105E33A-7034-49DE-AF4F-0C9935A26803_stringValue",
+      "value": "27%"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4BCDD32-A936-4B55-8086-A9D65048B298/DD29FFA9-2186-4C27-8FDB-968FF457C740_stringValue",
+      "value": "Progress"
+    }
+  ],
   "overrides": {
     "1DE39DF7-027C-4A60-BD48-BCC2A98A4767": {
       "7105E33A-7034-49DE-AF4F-0C9935A26803": "27%",
@@ -42,6 +59,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icon (Right)",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "617BB779-DAE9-419C-AAA5-FB08AE3BEB5F_symbolID",
+      "value": "BEEEFF0A-8AF0-4A56-8E60-769FEA49DEC6"
+    }
+  ],
   "overrides": {
     "617BB779-DAE9-419C-AAA5-FB08AE3BEB5F": {
       "symbolID": "BEEEFF0A-8AF0-4A56-8E60-769FEA49DEC6"
@@ -38,6 +45,7 @@
   "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

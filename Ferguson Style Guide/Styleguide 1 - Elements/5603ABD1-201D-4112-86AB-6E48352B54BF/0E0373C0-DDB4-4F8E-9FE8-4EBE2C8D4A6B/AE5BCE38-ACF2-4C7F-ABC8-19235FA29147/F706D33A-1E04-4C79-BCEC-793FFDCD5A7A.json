@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Text/H3/Dark/Bold/Left Aligned",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8B53C4BD-1BCD-41C6-98D8-CCF3C73AF78C_stringValue",
+      "value": "Modal Title"
+    }
+  ],
   "overrides": {
     "8B53C4BD-1BCD-41C6-98D8-CCF3C73AF78C": "Modal Title"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

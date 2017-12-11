@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Fill",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9004520-E676-4A0A-BCF5-A15EB02C44DE/A3400162-20B4-42B6-8092-8A264C252213_symbolID",
+      "value": "6AC288D9-4968-43D9-AE9C-CA36EF3903EC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9004520-E676-4A0A-BCF5-A15EB02C44DE/410F5543-D1A5-48C3-A21E-FA3E5123C848_symbolID",
+      "value": ""
+    }
+  ],
   "overrides": {
     "F9004520-E676-4A0A-BCF5-A15EB02C44DE": {
       "410F5543-D1A5-48C3-A21E-FA3E5123C848": {
@@ -43,6 +55,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 5,
   "name": "Caption",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "48C28EED-8D57-4D28-B014-B072C029C094_stringValue",
+      "value": "Page 2 of 3"
+    }
+  ],
   "overrides": {
     "48C28EED-8D57-4D28-B014-B072C029C094": "Page 2 of 3"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

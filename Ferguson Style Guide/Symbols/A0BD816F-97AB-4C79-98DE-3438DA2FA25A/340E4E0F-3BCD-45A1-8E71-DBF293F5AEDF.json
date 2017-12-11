@@ -30,9 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 5,
   "name": "Text of Message",
   "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

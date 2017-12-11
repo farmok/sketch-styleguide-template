@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Notification/Success",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "675D4D61-9B5F-4A59-B2A3-7DC4DEE80221/5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B_stringValue",
+      "value": "Success! This is a positive notification."
+    }
+  ],
   "overrides": {
     "675D4D61-9B5F-4A59-B2A3-7DC4DEE80221": {
       "5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B": "Success! This is a positive notification."
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

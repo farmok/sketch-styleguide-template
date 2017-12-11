@@ -30,6 +30,17 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Image",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FE0981A7-DA05-4F3B-B378-342D9AD8176D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a31ec46fcfddcca42f73579cd5e0932ddd916587",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
   "overrides": {
     "FE0981A7-DA05-4F3B-B378-342D9AD8176D": {
       "_class": "MSJSONFileReference",
@@ -40,6 +51,7 @@
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

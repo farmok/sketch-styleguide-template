@@ -30,9 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icon/Info",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 37,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",

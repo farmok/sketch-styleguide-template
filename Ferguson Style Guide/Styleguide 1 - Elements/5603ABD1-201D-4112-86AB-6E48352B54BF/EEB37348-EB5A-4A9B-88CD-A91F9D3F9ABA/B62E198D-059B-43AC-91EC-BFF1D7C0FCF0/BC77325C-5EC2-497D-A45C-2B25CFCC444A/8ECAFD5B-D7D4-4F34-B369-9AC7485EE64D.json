@@ -30,6 +30,33 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Notification - Error",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1EB520B9-737F-4D7D-BDA7-CC75B17FE2B2/4D9F448A-71CC-4120-B3F7-24BE78153A9A_stringValue",
+      "value": "Error. Can’t connect to the platform."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "64A98F89-7023-4A2A-97D7-7D3C9AE09D05_stringValue",
+      "value": "Error. Can’t connect to the platform."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2BA4A48-5ABC-466F-A9D9-D8373AC6D6FA_symbolID",
+      "value": "82D460D5-D787-492A-BFD5-C5C09B635619"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6900722F-08DE-4BAF-9D0A-3EFEBE1C92DE/5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B_stringValue",
+      "value": "You must have items in your cart to checkout."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D591BDF5-703A-49E4-96BF-3C4426247C28_symbolID",
+      "value": "1A0C7E7E-8CDB-438B-84AD-1A641939255A"
+    }
+  ],
   "overrides": {
     "1EB520B9-737F-4D7D-BDA7-CC75B17FE2B2": {
       "4D9F448A-71CC-4120-B3F7-24BE78153A9A": "Error. Can’t connect to the platform."
@@ -48,6 +75,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

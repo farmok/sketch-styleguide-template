@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tag",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AC9A6A3F-550A-4230-8361-7CF1C39AE0CC/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Very Long Name Item"
+    }
+  ],
   "overrides": {
     "AC9A6A3F-550A-4230-8361-7CF1C39AE0CC": {
       "7A53BBA4-C19B-411E-8996-AAC1498FF91E": "Very Long Name Item"
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

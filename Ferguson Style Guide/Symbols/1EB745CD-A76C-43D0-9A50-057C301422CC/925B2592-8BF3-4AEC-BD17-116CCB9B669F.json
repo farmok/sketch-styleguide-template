@@ -30,11 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Text",
   "nameIsFixed": true,
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

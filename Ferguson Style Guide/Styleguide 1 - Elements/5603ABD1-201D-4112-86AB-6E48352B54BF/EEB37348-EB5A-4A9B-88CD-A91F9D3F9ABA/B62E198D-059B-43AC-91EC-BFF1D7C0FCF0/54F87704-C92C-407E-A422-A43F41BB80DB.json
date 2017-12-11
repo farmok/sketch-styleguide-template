@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Notification/Info",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A7948793-9F7A-40CD-9EC7-9715529ADD9B/5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B_stringValue",
+      "value": "All servers are now running smoothly again! Thanks."
+    }
+  ],
   "overrides": {
     "A7948793-9F7A-40CD-9EC7-9715529ADD9B": {
       "5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B": "All servers are now running smoothly again! Thanks."
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

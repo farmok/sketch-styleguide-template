@@ -30,6 +30,53 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Select - Focused",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A101410F-A5B5-4248-833F-A24FD2F53AEA_symbolID",
+      "value": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A101410F-A5B5-4248-833F-A24FD2F53AEA/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Focused Value"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A101410F-A5B5-4248-833F-A24FD2F53AEA/5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B_stringValue",
+      "value": "Focused Value"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A101410F-A5B5-4248-833F-A24FD2F53AEA/0CF0489A-A3C3-49F9-AAB2-92431DF07BE0_stringValue",
+      "value": "Hovered"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2527F1C3-B189-4F41-B4F5-CA1469EBD159/DBD191E8-C6F5-474A-B8FC-39182DE32B68_symbolID",
+      "value": "8E95413F-B170-446E-B15E-2873F7B57469"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "22000BD1-E15B-473B-81FA-4E5D80200442_symbolID",
+      "value": "A00A5E2C-FE3B-48DE-AA8A-7D3C1D8002F1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "57383302-A25B-454A-BC59-D7219BBC991F_symbolID",
+      "value": "8A931C72-67F6-428B-A80C-DB39E5CFD2B9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "57383302-A25B-454A-BC59-D7219BBC991F/09758194-7852-4EF8-AA0C-7D964F5B73DF_symbolID",
+      "value": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "57383302-A25B-454A-BC59-D7219BBC991F/B5C6A311-9969-43CC-8DC9-5699ACA55159_symbolID",
+      "value": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+    }
+  ],
   "overrides": {
     "22000BD1-E15B-473B-81FA-4E5D80200442": {
       "symbolID": "A00A5E2C-FE3B-48DE-AA8A-7D3C1D8002F1"
@@ -58,6 +105,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

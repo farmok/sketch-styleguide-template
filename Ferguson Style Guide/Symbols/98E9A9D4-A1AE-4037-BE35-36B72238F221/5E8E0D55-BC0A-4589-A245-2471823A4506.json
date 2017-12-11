@@ -24,12 +24,34 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 4,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Input/With Right Icon",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B18C37E7-B00F-4768-9001-6A4BF47F2401_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ECD076EA-FB9B-4226-AAEC-E8F129126D12_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "44AF2AA8-85F3-4B9C-B525-E5BF59C0A7EF/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Search"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE375F19-29B7-4945-95CD-FFA2704E6F50_symbolID",
+      "value": "3D7582ED-C4B6-4B5A-8AFC-E1459217420A"
+    }
+  ],
   "overrides": {
     "44AF2AA8-85F3-4B9C-B525-E5BF59C0A7EF": {
       "7A53BBA4-C19B-411E-8996-AAC1498FF91E": "Search"
@@ -47,6 +69,7 @@
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

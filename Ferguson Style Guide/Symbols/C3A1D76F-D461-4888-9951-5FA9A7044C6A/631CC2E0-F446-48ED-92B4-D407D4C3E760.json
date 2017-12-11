@@ -30,6 +30,23 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "UI/Dropdown/Container",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "77E88B0A-54C8-4DE6-B3BA-F79B9B987296_symbolID",
+      "value": "8AD99CEF-811E-4782-9229-E50ED454D5AA"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "77E88B0A-54C8-4DE6-B3BA-F79B9B987296/291FB13B-D0F2-49FF-B0CB-FCC4686B72DE_symbolID",
+      "value": "2C399A91-67D0-42C5-AE4B-60ACD52D7950"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7D0C5498-2A9C-4DB9-A949-8F633381287F_symbolID",
+      "value": ""
+    }
+  ],
   "overrides": {
     "77E88B0A-54C8-4DE6-B3BA-F79B9B987296": {
       "291FB13B-D0F2-49FF-B0CB-FCC4686B72DE": {
@@ -44,6 +61,7 @@
   "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
