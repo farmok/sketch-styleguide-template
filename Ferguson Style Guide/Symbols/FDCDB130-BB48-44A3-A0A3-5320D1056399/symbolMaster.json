@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7182,
+  "changeIdentifier": 7130,
   "do_objectID": "FDCDB130-BB48-44A3-A0A3-5320D1056399",
   "exportOptions": {
     "_class": "exportOptions",
@@ -82,7 +82,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

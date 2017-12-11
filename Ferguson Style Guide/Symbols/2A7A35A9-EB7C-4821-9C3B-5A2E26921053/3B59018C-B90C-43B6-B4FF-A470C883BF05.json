@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "UI/Container/Sharp",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "07E65410-3CFE-4DCF-AF22-0FB96A00F9B5_symbolID",
+      "value": "79ECCD6E-B5CF-441E-B034-1D0429EC1AB3"
+    }
+  ],
   "overrides": {
     "07E65410-3CFE-4DCF-AF22-0FB96A00F9B5": {
       "symbolID": "79ECCD6E-B5CF-441E-B034-1D0429EC1AB3"
@@ -38,6 +45,7 @@
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

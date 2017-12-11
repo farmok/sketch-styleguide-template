@@ -30,11 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 7,
   "name": "Second Line",
   "nameIsFixed": true,
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

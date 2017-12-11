@@ -30,6 +30,38 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "Additional Item",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "631CC2E0-F446-48ED-92B4-D407D4C3E760/77E88B0A-54C8-4DE6-B3BA-F79B9B987296_symbolID",
+      "value": "04278785-3C03-47A8-91F6-B2EB8332CD5E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BC4858DC-A274-4DC4-91C4-83DDAABC8DA6_symbolID",
+      "value": "D123D528-7E30-4348-B9BF-405300630590"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BC4858DC-A274-4DC4-91C4-83DDAABC8DA6/5C051D41-9FBD-43C7-9DE7-002C90629C8D_stringValue",
+      "value": "Select All"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7371FD6A-2870-4349-90AF-BB40501CE8AB/4657D986-5A42-492D-9C7E-D460C7F04527_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F64B40EE-1A85-44D8-90E2-4E6E3CEDF6ED_stringValue",
+      "value": "Third"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3743C290-1909-4B43-BE98-320AEA5E4628/4657D986-5A42-492D-9C7E-D460C7F04527_symbolID",
+      "value": ""
+    }
+  ],
   "overrides": {
     "3743C290-1909-4B43-BE98-320AEA5E4628": {
       "4657D986-5A42-492D-9C7E-D460C7F04527": {
@@ -55,6 +87,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

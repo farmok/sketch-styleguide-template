@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Text/H3 - Large (18px)/Disabled/Regular/Left Aligned",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C84E4A13-5704-46AD-B764-3A77EDA63504_stringValue",
+      "value": "Tab"
+    }
+  ],
   "overrides": {
     "C84E4A13-5704-46AD-B764-3A77EDA63504": "Tab"
   },
   "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,9 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "Table List/Cozy Items/Inactive + Checkbox + Right Icon",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

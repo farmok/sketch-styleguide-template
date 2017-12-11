@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icon/Arrow Left",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D431DF3E-1F53-4AC4-BFAC-AADB5CFD0EC3_symbolID",
+      "value": "FD34C924-2E68-460C-93A5-ECCBB2CBA0B5"
+    }
+  ],
   "overrides": {
     "D431DF3E-1F53-4AC4-BFAC-AADB5CFD0EC3": {
       "symbolID": "FD34C924-2E68-460C-93A5-ECCBB2CBA0B5"
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -24,12 +24,94 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 4,
-  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "Textarea Disabled",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A9EA9C32-1C0B-4D2E-A6EE-3BD7E66325CC_symbolID",
+      "value": "EC7E689C-42C9-42DD-8394-FF2F5D3D1895"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7407D1AF-74B3-4657-9EC3-44A6A79158B2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3719A84A-43AE-439C-B467-6C9EC7CDB3EB_symbolID",
+      "value": "E4185CB5-43E8-4106-97DA-376CFFFB2DDD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "809F68DB-43C3-407E-B0EF-B90785F9F0D9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7DA8CD9C-8C30-4076-B290-3B202D24F88C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9A5A34F-18DE-450A-9629-E309C9F84B28_symbolID",
+      "value": "D123D528-7E30-4348-B9BF-405300630590"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9A5A34F-18DE-450A-9629-E309C9F84B28/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "min. 40 Characters"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9A5A34F-18DE-450A-9629-E309C9F84B28/5D06BEBF-C419-4FC5-8ADF-DACAA42A9A3B_stringValue",
+      "value": "The textarea tag defines a \nmulti-line text input control."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9A5A34F-18DE-450A-9629-E309C9F84B28/5C051D41-9FBD-43C7-9DE7-002C90629C8D_stringValue",
+      "value": "The textarea tag defines a \nmulti-line text input control."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E0FF4C3-EAF7-44C5-9433-186121CB7A1A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "132FC66D-F313-47AC-AA32-29B202BF2AEE_symbolID",
+      "value": "D123D528-7E30-4348-B9BF-405300630590"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8CE64267-EBE9-4971-B860-9AA51939C63C/26F179DB-7D56-4AE6-8C5A-A945C742804D/43276E30-4DC8-4633-8E77-6C876FC376C2_symbolID",
+      "value": "C63A6A28-D8A5-485D-9645-E4331D4D485D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E03A12EA-D030-4A54-B561-BBA997A7BC3A/DD29FFA9-2186-4C27-8FDB-968FF457C740_stringValue",
+      "value": "TextArea Label"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "13ACCA40-18E2-4AAA-815E-B9868964CA22_stringValue",
+      "value": "Everybody good? Plenty of slaves for my robot colony? - Interstellar"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0761E4D2-E9CF-4A79-823E-B45885C29E74/DBD191E8-C6F5-474A-B8FC-39182DE32B68_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0761E4D2-E9CF-4A79-823E-B45885C29E74/AB14E862-66FD-4B37-946E-F683E40624EB_symbolID",
+      "value": "12A0F36E-D0FF-404E-9190-16428F3251F5"
+    }
+  ],
   "overrides": {
     "0761E4D2-E9CF-4A79-823E-B45885C29E74": {
       "AB14E862-66FD-4B37-946E-F683E40624EB": {
@@ -63,8 +145,6 @@
         "43276E30-4DC8-4633-8E77-6C876FC376C2": {
           "symbolID": "C63A6A28-D8A5-485D-9645-E4331D4D485D"
         }
-      },
-      "340E4E0F-3BCD-45A1-8E71-DBF293F5AEDF": {
       }
     },
     "A9EA9C32-1C0B-4D2E-A6EE-3BD7E66325CC": {
@@ -72,8 +152,6 @@
     },
     "E03A12EA-D030-4A54-B561-BBA997A7BC3A": {
       "DD29FFA9-2186-4C27-8FDB-968FF457C740": "TextArea Label"
-    },
-    "E168CB84-40CC-49F8-925E-D289EE2F29DE": {
     },
     "E9A5A34F-18DE-450A-9629-E309C9F84B28": {
       "5C051D41-9FBD-43C7-9DE7-002C90629C8D": "The textarea tag defines a \nmulti-line text input control.",
@@ -85,6 +163,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

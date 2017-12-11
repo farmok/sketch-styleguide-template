@@ -30,6 +30,28 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tab - Active",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "30C836D6-E358-4C42-A16A-B8ADE0C0BB47_stringValue",
+      "value": "Tab 1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82A5F0D0-A0C6-4D5A-B7B1-F65D7E5BDC7C/9DB1E8A4-0803-4AEB-835C-17B01C871A59_stringValue",
+      "value": "Tab 1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82A5F0D0-A0C6-4D5A-B7B1-F65D7E5BDC7C/8B53C4BD-1BCD-41C6-98D8-CCF3C73AF78C_stringValue",
+      "value": "All Results"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82A5F0D0-A0C6-4D5A-B7B1-F65D7E5BDC7C/C7352851-56A6-4345-A624-FD1CF52A70BA_stringValue",
+      "value": "All Results"
+    }
+  ],
   "overrides": {
     "30C836D6-E358-4C42-A16A-B8ADE0C0BB47": "Tab 1",
     "82A5F0D0-A0C6-4D5A-B7B1-F65D7E5BDC7C": {
@@ -41,6 +63,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

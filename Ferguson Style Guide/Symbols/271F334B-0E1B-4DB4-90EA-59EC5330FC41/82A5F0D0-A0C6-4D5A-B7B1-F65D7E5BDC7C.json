@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Text/H3 - Large (18px)/Dark/Bold/Centered",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7352851-56A6-4345-A624-FD1CF52A70BA_stringValue",
+      "value": "Tab"
+    }
+  ],
   "overrides": {
     "C7352851-56A6-4345-A624-FD1CF52A70BA": "Tab"
   },
   "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

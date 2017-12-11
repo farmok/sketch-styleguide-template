@@ -30,6 +30,63 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Select",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C26B732-5B4B-47C7-993D-E2438F29CD3F_symbolID",
+      "value": "DE7B7406-C23C-4B0F-8000-7445933DBDE6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C26B732-5B4B-47C7-993D-E2438F29CD3F/2E187A8C-A3AB-4219-BCD1-A0459348D831_symbolID",
+      "value": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A101410F-A5B5-4248-833F-A24FD2F53AEA_symbolID",
+      "value": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "16824476-4F5D-425F-A225-01A38111EEDC_symbolID",
+      "value": "8A931C72-67F6-428B-A80C-DB39E5CFD2B9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "16824476-4F5D-425F-A225-01A38111EEDC/09758194-7852-4EF8-AA0C-7D964F5B73DF_symbolID",
+      "value": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "16824476-4F5D-425F-A225-01A38111EEDC/B5C6A311-9969-43CC-8DC9-5699ACA55159_symbolID",
+      "value": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3999B85-2ACB-4DE7-8FAF-8ACE88264493/DBD191E8-C6F5-474A-B8FC-39182DE32B68_symbolID",
+      "value": "8E95413F-B170-446E-B15E-2873F7B57469"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "22000BD1-E15B-473B-81FA-4E5D80200442_symbolID",
+      "value": "A00A5E2C-FE3B-48DE-AA8A-7D3C1D8002F1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF1CB716-2499-47DA-B2F1-609C8058B4ED_symbolID",
+      "value": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF1CB716-2499-47DA-B2F1-609C8058B4ED/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Apr 4, 2017"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6028CFAF-188B-424A-84A1-D3B43276C314_symbolID",
+      "value": "A00A5E2C-FE3B-48DE-AA8A-7D3C1D8002F1"
+    }
+  ],
   "overrides": {
     "16824476-4F5D-425F-A225-01A38111EEDC": {
       "09758194-7852-4EF8-AA0C-7D964F5B73DF": {
@@ -68,6 +125,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "Text",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4CBBF02-3E3D-4F67-AF5D-D306A84E0CD7_stringValue",
+      "value": "Value"
+    }
+  ],
   "overrides": {
     "B4CBBF02-3E3D-4F67-AF5D-D306A84E0CD7": "Value"
   },
   "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

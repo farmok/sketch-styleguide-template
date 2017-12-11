@@ -24,12 +24,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 5,
-  "masterInfluenceEdgeMaxYPadding": 4,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tag Removable",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "57ECBF75-A1DB-4EC6-AEF3-1A9FC96B42A6/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Item #2"
+    }
+  ],
   "overrides": {
     "57ECBF75-A1DB-4EC6-AEF3-1A9FC96B42A6": {
       "7A53BBA4-C19B-411E-8996-AAC1498FF91E": "Item #2"
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icon/Cross Circle",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CFEAF29B-E8DF-4187-8B23-746A11252654_symbolID",
+      "value": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
+    }
+  ],
   "overrides": {
     "CFEAF29B-E8DF-4187-8B23-746A11252654": {
       "symbolID": "2BF5CA17-954D-4337-A305-4C7A9C821DE3"
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

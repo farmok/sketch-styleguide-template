@@ -30,6 +30,38 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Dropdown Item",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A7B2B0FE-5B12-498D-A7E4-40BA2AC77E2B_symbolID",
+      "value": "4F181A96-9B1E-4B4F-88AE-60146AD03F96"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FFBAD421-3FE9-4111-8586-8D9C7873CD33/34EE7FCB-75DB-40F9-A25A-FEB31DF09FCD/4657D986-5A42-492D-9C7E-D460C7F04527_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FFBAD421-3FE9-4111-8586-8D9C7873CD33/7D0C5498-2A9C-4DB9-A949-8F633381287F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F64B40EE-1A85-44D8-90E2-4E6E3CEDF6ED_stringValue",
+      "value": "First"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BAF6B7D7-105C-48B7-A5EB-5DD312BF3BD8/77E88B0A-54C8-4DE6-B3BA-F79B9B987296/291FB13B-D0F2-49FF-B0CB-FCC4686B72DE_symbolID",
+      "value": "2C399A91-67D0-42C5-AE4B-60ACD52D7950"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8D019EA5-BAEE-41AE-B7E6-06F3A25B2179/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Messages"
+    }
+  ],
   "overrides": {
     "8D019EA5-BAEE-41AE-B7E6-06F3A25B2179": {
       "7A53BBA4-C19B-411E-8996-AAC1498FF91E": "Messages"
@@ -43,8 +75,6 @@
           "symbolID": "2C399A91-67D0-42C5-AE4B-60ACD52D7950"
         }
       }
-    },
-    "BC4858DC-A274-4DC4-91C4-83DDAABC8DA6": {
     },
     "F64B40EE-1A85-44D8-90E2-4E6E3CEDF6ED": "First",
     "FFBAD421-3FE9-4111-8586-8D9C7873CD33": {
@@ -61,6 +91,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

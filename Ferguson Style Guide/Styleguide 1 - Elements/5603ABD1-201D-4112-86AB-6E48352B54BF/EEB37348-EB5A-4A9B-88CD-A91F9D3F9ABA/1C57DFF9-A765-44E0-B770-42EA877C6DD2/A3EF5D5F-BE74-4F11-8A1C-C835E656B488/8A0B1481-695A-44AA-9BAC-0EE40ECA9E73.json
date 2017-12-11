@@ -30,6 +30,23 @@
   "masterInfluenceEdgeMinYPadding": 5,
   "name": "Base + Label & Message",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1DE39DF7-027C-4A60-BD48-BCC2A98A4767/7105E33A-7034-49DE-AF4F-0C9935A26803_stringValue",
+      "value": "82%"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4BCDD32-A936-4B55-8086-A9D65048B298/DD29FFA9-2186-4C27-8FDB-968FF457C740_stringValue",
+      "value": "Downloading..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4BCDD32-A936-4B55-8086-A9D65048B298/217674C3-EB4F-48D7-B91E-74DD2D22407B_stringValue",
+      "value": "Loading..."
+    }
+  ],
   "overrides": {
     "1DE39DF7-027C-4A60-BD48-BCC2A98A4767": {
       "7105E33A-7034-49DE-AF4F-0C9935A26803": "82%"
@@ -42,6 +59,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,6 +30,33 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "Select - Image Rounded",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EB120E55-288D-4B3A-96BD-2F9865E3B4AF/DD29FFA9-2186-4C27-8FDB-968FF457C740_stringValue",
+      "value": "Select User"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4F1AABA-AC38-4AC3-8DBA-9BC694361DF2_symbolID",
+      "value": "8A3DEA9D-F2DE-4883-9ED8-FFFCFCCCA29A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4F1AABA-AC38-4AC3-8DBA-9BC694361DF2/7A53BBA4-C19B-411E-8996-AAC1498FF91E_stringValue",
+      "value": "Annie Cooper"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "32CA32C3-3601-44AE-8EB8-B436148B3F44/DBD191E8-C6F5-474A-B8FC-39182DE32B68_symbolID",
+      "value": "1C84892F-3CAF-429C-B8C4-66614CA09882"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2839C5E8-0126-4B59-B9C3-912A0C12276B/09758194-7852-4EF8-AA0C-7D964F5B73DF_symbolID",
+      "value": "FD34C924-2E68-460C-93A5-ECCBB2CBA0B5"
+    }
+  ],
   "overrides": {
     "2839C5E8-0126-4B59-B9C3-912A0C12276B": {
       "09758194-7852-4EF8-AA0C-7D964F5B73DF": {
@@ -52,6 +79,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

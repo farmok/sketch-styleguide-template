@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "2nd Position",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1CF27030-5A71-4E2F-81B5-124AC2FA91D0_stringValue",
+      "value": "1"
+    }
+  ],
   "overrides": {
     "1CF27030-5A71-4E2F-81B5-124AC2FA91D0": "1"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

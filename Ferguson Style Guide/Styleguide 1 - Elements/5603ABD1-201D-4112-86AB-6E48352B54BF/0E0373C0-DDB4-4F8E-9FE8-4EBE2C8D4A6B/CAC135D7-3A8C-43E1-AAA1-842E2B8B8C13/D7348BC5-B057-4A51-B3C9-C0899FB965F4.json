@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Button/Medium/Default",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "34141EC5-7902-41F2-96B9-0C5EFE56F545/36ED94EA-C769-4220-B7D5-1A7AD5D65FCF_stringValue",
+      "value": "Apply"
+    }
+  ],
   "overrides": {
     "34141EC5-7902-41F2-96B9-0C5EFE56F545": {
       "36ED94EA-C769-4220-B7D5-1A7AD5D65FCF": "Apply"
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

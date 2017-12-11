@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Base / Layout",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBD191E8-C6F5-474A-B8FC-39182DE32B68_symbolID",
+      "value": "2C8B8068-2E4A-44A3-86D7-E67C8787C694"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AB14E862-66FD-4B37-946E-F683E40624EB_symbolID",
+      "value": ""
+    }
+  ],
   "overrides": {
     "AB14E862-66FD-4B37-946E-F683E40624EB": {
       "symbolID": ""
@@ -41,6 +53,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
